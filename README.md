@@ -1,6 +1,8 @@
-# 🌱 Plant Care Reminder App
+# 🌱 Plant Care Reminder App - FSD Mini Project
 
 A modern, full-stack web application to help you take care of your plants with personalized reminders, beautiful UI, and comprehensive plant management features.
+
+**Repository**: [https://github.com/KrishnaKumarB-47/DATA-SCIENCE-PROJECT.git](https://github.com/KrishnaKumarB-47/DATA-SCIENCE-PROJECT.git)
 
 ![Plant Care App](https://img.shields.io/badge/Plant%20Care-v1.0.0-green) ![React](https://img.shields.io/badge/React-18.2.0-blue) ![Node.js](https://img.shields.io/badge/Node.js-18+-green) ![MongoDB](https://img.shields.io/badge/MongoDB-7.0-green) ![Docker](https://img.shields.io/badge/Docker-Ready-blue)
 
